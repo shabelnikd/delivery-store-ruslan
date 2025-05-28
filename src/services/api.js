@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000/api';
+const API_URL = 'https://ruslan.diplomcomtehno.online/';
 
 // Create axios instance
 const api = axios.create({
